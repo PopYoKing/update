@@ -1,0 +1,20 @@
+﻿l_english:
+ #Opinion modifiers
+
+
+ROM_join_axis2:0 "Join The Axis"
+ROM_join_axis2_desc:0 ""
+
+ROM_joint_army_training:0 "Joint Army Training"
+ROM_joint_army_training_desc:0 ""
+
+ROM_crusade_against_bolshevism:0 "Crusade Against Bolshevism"
+ROM_crusade_against_bolshevism_desc:0 ""
+
+ROM_friendship_with_italy:0 "Friendship With Italy"
+ROM_friendship_with_italy_desc:0 ""
+
+ROM_trade_treaty_with_italy:0 "Trade Treaty With Italy"
+ROM_trade_treaty_with_italy_desc:0 ""
+
+ROM_puppet_bulgaria:0 "Align Bulgaria"

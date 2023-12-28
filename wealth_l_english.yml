@@ -1,0 +1,14 @@
+﻿l_english:
+ #Opinion modifiers
+
+
+CAN_improve_production:0 "Improve Production"
+CAN_improve_production_desc:0 ""
+
+CAN_tank_plan:0 "The Tank Plan"
+CAN_tank_plan_desc:0 ""
+
+CAN_develop_heavy_metals:0 "Develop Heavy Metals"
+CAN_develop_heavy_metals_desc:0 ""
+
+CAN_big_fleet:0 "Big Fleet"

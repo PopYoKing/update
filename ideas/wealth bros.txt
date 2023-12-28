@@ -1,0 +1,71 @@
+ideas = {
+
+	country = {
+		CAN_improve_production = {
+			picture = generic_improved_industries
+			
+			allowed = {
+		original_tag = CAN
+			}
+			available 
+		
+		
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = 0
+			
+			modifier = {
+			consumer_goods_factor = -0.1
+			industrial_capacity_factory = 0.05
+			}
+		}
+	}
+	
+	country = {
+		CAN_tank_plan = {
+			picture = generic_improved_industries
+			
+			allowed = {
+		original_tag = CAN
+			}
+			available 
+		
+		
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = 0
+			
+			modifier = {
+			army_armor_attack_factor = 0.08
+			army_armor_speed_factor = 0.1
+			}
+		}
+	}
+	
+	country = {
+		CAN_big_fleet = {
+			picture = generic_coastal_defense_ships
+			
+			allowed = {
+		original_tag = CAN
+			}
+			available 
+		
+		
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = 0
+			
+			modifier = {
+			industrial_capacity_dockyard = 0.1
+			}
+		}
+	}
+}
+	

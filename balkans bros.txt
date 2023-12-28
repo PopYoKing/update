@@ -1,0 +1,50 @@
+ideas = {
+
+country = {
+		ROM_secure_greece = {
+			picture = generic_democracy_banned
+			
+			allowed = {
+			original_tag = ROM	
+			}
+			
+			available 
+		
+		
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = 0
+			
+						targeted_modifier = {
+				tag = GRE
+				attack_bonus_against = 0.1
+			}
+		}
+	}
+	
+	country = {
+		ROM_crusade_against_bolshevism = {
+			picture = SPR_crush_the_revolution
+			
+			allowed = {
+			original_tag = ROM	
+			}
+			
+			available 
+		
+		
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = 0
+			
+						targeted_modifier = {
+				tag = SOV
+				attack_bonus_against = 0.05 
+			}
+		}
+	}
+}
